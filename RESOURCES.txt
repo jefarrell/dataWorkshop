@@ -1,0 +1,9 @@
+RESOURCES
+
+
+
+https://nycopendata.socrata.com/
+http://www.data.gov/
+http://www.programmableweb.com/
+http://www.citibikenyc.com/stations/json
+https://bitly.com/bundles/hmason/1
