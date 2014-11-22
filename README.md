@@ -1,10 +1,11 @@
 dataWorkshop
 ============
-##Data Workshop @ NYU ITP taught in conjunction with [Brian Clifton](http://www.gihub.com/bclifton)
+##Data Workshop @ NYU ITP
+##Taught in conjunction with [Brian Clifton](http://www.gihub.com/bclifton)
 
 ####Introduction to working with data.
 
-Using Processing, with data collected from the NYT API.
+Examples in Processing, with data collected from the NYT API.
 
 Resources file contains links to data resources.
 
