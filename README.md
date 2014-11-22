@@ -1,7 +1,7 @@
 dataWorkshop
 ============
 ##Data Workshop @ NYU ITP
-##Taught in conjunction with [Brian Clifton](http://www.gihub.com/bclifton)
+###Taught in conjunction with [Brian Clifton](http://www.gihub.com/bclifton)
 
 ####Introduction to working with data.
 
