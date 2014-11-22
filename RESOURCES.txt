@@ -1,9 +1,25 @@
 RESOURCES
 
 
-
+/// Data sources
 https://nycopendata.socrata.com/
 http://www.data.gov/
 http://www.programmableweb.com/
 http://www.citibikenyc.com/stations/json
 https://bitly.com/bundles/hmason/1
+
+/// JSON to csv
+http://www.convertcsv.com/json-to-csv.htm
+
+/// Learn Python
+learnpythonthehardway.org/book/
+http://openbookproject.net/thinkcs/python/english2e/
+code academy
+
+/// Inspiration
+Jer Thorp - http://blog.blprnt.com/
+Mike Bostock - http://bost.ocks.org/mike/
+Stefanie Posavec - http://www.itsbeenreal.co.uk/index.php?/wwwords/sentence-drawings/
+Ben Rubin - https://vimeo.com/benrubin
+Luke Dubois - http://lukedubois.com/
+Edward Tufte - http://www.edwardtufte.com/tufte/
